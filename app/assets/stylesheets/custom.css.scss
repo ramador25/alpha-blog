@@ -5,6 +5,11 @@ $navbar-default-bg: #557A95;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+/*.navbar-default {
+  background-color: #557A95;
+  color: white;
+}*/
+
 #logo {
   float: left;
   font-size: 1.7em;
@@ -101,4 +106,5 @@ footer ul li {
   float: left;
   margin-left: 15px;
 }
+
 
